@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<colors>
+    <color name="cFFFFF">#FFFFFFFF</color>
+    <color name="allPrimaryColor">#503559</color>
+    <color name="deepBlack">#6600000B</color>
+    <color name="c4D4D4D">#4D4D4D</color>
+    <color name="c503559">#503559</color>
+    <color name="cFF503559">#FF503559</color>
+    <color name="cFFF2C2">#FFF2C2</color>
+    <color name="cFFF7F7F7">#FFF7F7F7</color>
+    <color name="cFF6E5782">#FF6E5782</color>
+    <color name="cFF9E9E9E">#FF9E9E9E</color>
+
+    <!--home screen color-->
+    <color name="cFFF2C2">#FFF2C2</color>
+
+    <!--bottom sheets unselected color-->
+    <color name="cA798A8">#A798A8</color>
+    <color name="cFF2D2D">#FF2D2D</color>
+
+    <!--welcome text color-->
+    <color name="c041C43">#041C43</color>
+
+    <!--gradient button color-->
+    <color name="cE90909">#E90909</color>
+    <color name="cFF7700">#FF7700</color>
+    <color name="cFFFFFF">#FFFFFF</color>
+
+    <!--reminder screen button-->
+    <color name="cAB1BE2">#AB1BE2</color>
+    <color name="c7D319A">#7D319A</color>
+    <color name="cEA0C09">#EA0C09</color>
+    <color name="c000000">#000000</color>
+    <!--grey color-->
+    <color name="c807B7B">#807B7B</color>
+
+    <!--active tab background color-->
+    <color name="cF6ECF9">#F6ECF9</color>
+    <color name="cFEF2F2">#FEF2F2</color>
+    <color name="cF92623">#F92623</color>
+    <color name="c2E2E2E">#2E2E2E</color>
+    <color name="c4D4D4D">#4D4D4D</color>
+</colors>
