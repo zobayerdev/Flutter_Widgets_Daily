@@ -2,6 +2,7 @@
 import 'package:auto_animated/auto_animated.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:flutters_widgets_daily/features/api_file/screen/login_screen.dart';
 import 'package:flutters_widgets_daily/features/tabbar_screen/tabbar_one.dart';
 import 'package:flutters_widgets_daily/helper/all_routes.dart';
 import 'package:flutters_widgets_daily/helper/di.dart';
@@ -79,7 +80,7 @@ class UtillScreenMobile extends StatelessWidget {
             },
             navigatorKey: NavigationService.navigatorKey,
             onGenerateRoute: RouteGenerator.generateRoute,
-            home: const TabbarOne(), //Loading //splashscreen
+            home: const LoginScreen(), //Loading //splashscreen
           ),
         );
       },
